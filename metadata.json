@@ -1,0 +1,13 @@
+{
+  "name": "Authentix",
+  "short_name": "Authentix",
+  "description": "Blockchain-powered product authentication system.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#f8fafc",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
